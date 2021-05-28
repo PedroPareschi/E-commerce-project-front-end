@@ -56,7 +56,8 @@
       "cordova-plugin-camera": {}
     },
     "platforms": [
-      "browser"
+      "browser",
+      "android"
     ]
   }
 }

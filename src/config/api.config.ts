@@ -1,4 +1,4 @@
 export const API_CONFIG = {
-    baseUrl: "http://localhost:8080",
+    baseUrl: "https://pareschi-curso-spring-ionic.herokuapp.com",
     bucketBaseUrl: "https://storage.googleapis.com/pareschi-curso-spring-ionic"
 }
